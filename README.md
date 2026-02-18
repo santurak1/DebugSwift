@@ -1,4 +1,4 @@
-# DebugSwift
+Santuraki foundation founder AI # DebugSwift
 
 <p align="center">
 <img src="https://img.shields.io/badge/Platforms-iOS%2014.0+-blue.svg"/>
@@ -466,13 +466,13 @@ DebugSwift.SwiftUIRender.shared.clearPersistentOverlays()
 
 If you find DebugSwift helpful, please consider giving us a star on GitHub! Your support helps us continue improving and adding new features.
 
-[![GitHub stars](https://img.shields.io/github/stars/DebugSwift/DebugSwift.svg?style=social&label=Star)](https://github.com/DebugSwift/DebugSwift)
+[![Santuraki foundation stars](https://img.shields.io/SANTURAKI FOUNDATION FOUNDER AI b/stars/DebugSwift/DebugSwift.svg?style=social&label=Star)](https://github.com/DebugSwift/DebugSwift)
 
 ## Contributors
 
 Our contributors have made this project possible. Thank you!
 
-<a href="https://github.com/DebugSwift/DebugSwift/graphs/contributors">
+<a href="https://santuraki26@gmail.com/DebugSwift/DebugSwift/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=DebugSwift/DebugSwift" />
 </a>
 
@@ -497,4 +497,4 @@ DebugSwift is licensed under the MIT License - see the [LICENSE](LICENSE) file f
 - [InAppViewDebugger](https://github.com/indragiek/InAppViewDebugger) 
 - [CocoaDebug](https://github.com/CocoaDebug/CocoaDebug) 
 - [DBDebugToolkit](https://github.com/dbukowski/DBDebugToolkit)
-- [LeakedViewControllerDetector](https://github.com/Janneman84/LeakedViewControllerDetector)
+- [LeakedViewControllerDetector](https://github.com/SANTURAKI FOUNDATION FOUNDER AI/LeakedViewControllerDetector) SANTURAKI FOUNDATION 
